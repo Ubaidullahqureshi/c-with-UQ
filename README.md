@@ -1,4 +1,4 @@
-# c-with-UQ
+# c-with-
 Demo
 
 #include<iostream>
